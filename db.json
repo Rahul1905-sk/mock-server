@@ -5,5 +5,10 @@
             "status": true,
             "id": "1669778268986dx"
           }
+    ],
+    "products": [
+        {
+            "name":"shirts"
+        }
     ]
   }
