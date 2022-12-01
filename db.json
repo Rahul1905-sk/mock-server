@@ -11,5 +11,6 @@
             "name":"shirts"
         }
     ],
-    "inventory": []
+    "inventory": [],
+    "credentials":[]
   }
